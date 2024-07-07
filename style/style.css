@@ -146,6 +146,9 @@ display: flex;
     padding: 130px 230px;
     gap: 100px;
 }
+.icons{
+    gap: 10px;
+}
 .footer-column{
     width: 50%;
 }
